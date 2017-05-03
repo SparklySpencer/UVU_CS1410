@@ -16,4 +16,4 @@ Introduces the key concepts of object-oriented programming. Includes pointers an
 - [Project_05](https://github.com/SparklySpencer/UVU_CS1410/blob/master/CS_1410/Project_05/UML.jpg)
 
 <hr/>
-<a href="https://sparklyspencer.github.io/">Home: Mr. Pride's Portfolio</a>
+<a href="https://sparklyspencer.github.io/"><h2>Previous: Mr. Pride's Portfolio</h2></a>
