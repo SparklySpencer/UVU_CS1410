@@ -15,4 +15,5 @@ Introduces the key concepts of object-oriented programming. Includes pointers an
 - [Project_04](https://github.com/SparklySpencer/UVU_CS1410/blob/master/CS_1410/Project_04/Project_04/Driver.cpp)
 - [Project_05](https://github.com/SparklySpencer/UVU_CS1410/blob/master/CS_1410/Project_05/UML.jpg)
 
-### [Home: Mr. Pride's Portfolio](https://sparklyspencer.github.io/)
+<hr/>
+<a href="https://sparklyspencer.github.io/">Home: Mr. Pride's Portfolio</a>
